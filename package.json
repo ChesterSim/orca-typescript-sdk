@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "@orca-so/aquafarm": "^0.0.12",
-    "@orca-so/stablecurve": "^1.0.5",
+    "@orca-so/stablecurve": "git+https://github.com/orca-so/stablecurve.git#main",
     "@solana/spl-token": "^0.1.5",
     "@solana/spl-token-swap": "^0.1.2",
     "@solana/web3.js": "^1.24.1",
